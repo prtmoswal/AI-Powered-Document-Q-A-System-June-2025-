@@ -1,0 +1,8 @@
+# requirements.txt
+streamlit
+python-docx # For reading .docx files
+sentence-transformers # For embedding models
+faiss-cpu # For vector similarity search
+transformers # For loading local LLM
+torch # PyTorch for LLM
+openai # or google-generativeai for GPT API
